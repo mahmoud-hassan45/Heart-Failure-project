@@ -18,7 +18,7 @@ sourece on kaggle (https://www.kaggle.com/datasets/andrewmvd/heart-failure-clini
 ### Target:
 DEATH_EVENT
 
-##Project Workflow
+## Project Workflow
 -  Data Preprocessing.
 -  Model Training.
 -  Model Evaluation.
@@ -29,5 +29,10 @@ After training and evaluating multiple machine learning models on the heart fail
 Best Performing Model: Random Forest.
 Achieved 87% accuracy, making it the most reliable model for predicting heart failure in this dataset.
 XGBoost :85%    SVM:80%   LogisticRegression: 80%  performed well with  accuracy.
+
+# Model Gradio view
+
+## 
+
 
 
