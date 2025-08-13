@@ -2,7 +2,7 @@
 This project is a machine learning application for predicting heart failure based on patients' clinical data. Using a dataset of 12 medical features, the system applies various classification algorithms to assess the risk of death due to heart failure.
 ## Data Set 
 sourece on kaggle (https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data )
-## Features: 12 clinical features 
+###Features: 12 clinical features 
  -age العمر
 - anaemia – وجود أنيميا (0/1)
 - creatinine_phosphokinase – مستوى إنزيم CPK
@@ -15,7 +15,7 @@ sourece on kaggle (https://www.kaggle.com/datasets/andrewmvd/heart-failure-clini
 - sex – الجنس (0/1)
 - smoking – التدخين (0/1)
 - time – مدة المتابعة بالأيام
-## Target:
+### Target:
 DEATH_EVENT
 ##Project Workflow
 -  Data Preprocessing.
