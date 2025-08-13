@@ -32,7 +32,7 @@ XGBoost :85%    SVM:80%   LogisticRegression: 80%  performed well with  accuracy
 
 # Model Gradio view
 
-## 
+ <img src="Heart failure project /WhatsApp Image 2025-08-13 at 19.33.21_210fe6f3" width="400">
 
 
 
