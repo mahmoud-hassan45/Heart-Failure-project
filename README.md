@@ -3,7 +3,7 @@ This project is a machine learning application for predicting heart failure base
 ## Data Set 
 sourece on kaggle (https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data )
 ### Features: 12 clinical features 
- -age العمر
+- age العمر
 - anaemia – وجود أنيميا (0/1)
 - creatinine_phosphokinase – مستوى إنزيم CPK
 - diabetes – وجود سكر (0/1)
