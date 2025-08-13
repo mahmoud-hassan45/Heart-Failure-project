@@ -31,6 +31,8 @@ Achieved 87% accuracy, making it the most reliable model for predicting heart fa
 XGBoost :85%    SVM:80%   LogisticRegression: 80%  performed well with  accuracy.
 
 # Model Gradio view
-
+- Easy-to-use interface for manual data entry
+- ✅ Not At Risk
+- ⚠️ At Risk
 ## on Hugging Face (https://huggingface.co/spaces/MahmoudAlmoghazy-22/Final_project)
 
